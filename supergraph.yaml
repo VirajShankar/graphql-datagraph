@@ -10,3 +10,4 @@ subgraphs:
     routing_url: http://appointment-db-service:8000/graphql
     schema:
       subgraph_url: http://appointment-db-service:8000/graphql
+
